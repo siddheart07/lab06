@@ -2,7 +2,7 @@
 
 **Module:** Secure Communication and Cryptography  
 **Challenge:** Lab 06 – Encrypted Image  
-**Team:** Ram Siddharth R R and Jeyanth Kannan  
+**Team:** Ram Siddharth Ramasamy Raja and Jeyanth Kannan  
 **Result:** `Tro11d`
 
 ## Aim
